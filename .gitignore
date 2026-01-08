@@ -1,0 +1,17 @@
+my_course_env/
+photos/
+*.log
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+
+# Firebase Admin SDK keys
+*firebase-adminsdk-*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
